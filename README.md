@@ -18,6 +18,4 @@ samples, guidance on mobile development, and a full API reference.
  ## The Desgin
  
 
-![Image 1](https://raw.githubusercontent.com/ibrahim-atef/flutter-web-login/assets/86667626/340a19e6-262c-4a1f-bacb-98fb54c37840)
-
-![Image 2](https://raw.githubusercontent.com/ibrahim-atef/flutter-web-login/assets/86667626/5895090e-96df-45c8-a1b7-0ef20e69f179)
+ 
